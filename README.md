@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alf248
-- 👀 I’m interested in all things IT
+- 👀 I’m interested in computers and programming
 
 
 <!---
