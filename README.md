@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alf248
-- 👀 I’m interested in computers and programming
+👋 Hi, I’m @alf248\
+👀 I’m interested in computers and programming.
 
-On this site I have some example apps that I've created
+On this site I have some example apps that I've created.
 
 
 <!---
