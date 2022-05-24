@@ -1,4 +1,4 @@
-This page has some example code that I've used for learning
+This page has some example code
 
 - Javascript, React, Node.js
 - Go
