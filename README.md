@@ -1,7 +1,1 @@
-This page has some example code
-
-- Javascript, React, Node.js
-- Go
-- Python
-- GraphQL
-- MySQL, MongoDB
+My githubpage page is inteded for example code and learning
